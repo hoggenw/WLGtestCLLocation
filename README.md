@@ -22,7 +22,7 @@ pod "WLGtestCLLocation"
 
 ## Author
 
-dev-wangliugen, 253192463@qq.com
+hoggenW
 
 ## License
 
