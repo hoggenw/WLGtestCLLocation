@@ -1,0 +1,6 @@
+use_frameworks!
+target 'WLGtestCLLocation_Tests' do
+  pod 'WLGtestCLLocation', :path => '../'
+  
+  
+end
