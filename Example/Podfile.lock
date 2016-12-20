@@ -1,0 +1,16 @@
+PODS:
+  - WLGtestCLLocation (0.1.0)
+
+DEPENDENCIES:
+  - WLGtestCLLocation (from `../`)
+
+EXTERNAL SOURCES:
+  WLGtestCLLocation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WLGtestCLLocation: 9ee938bad73e691b3e747b0c453d459337cf9542
+
+PODFILE CHECKSUM: 40fff0d40560261a832f3c1343ced81177c6d4c0
+
+COCOAPODS: 1.1.1

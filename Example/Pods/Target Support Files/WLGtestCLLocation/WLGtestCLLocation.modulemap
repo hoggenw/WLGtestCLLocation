@@ -1,0 +1,6 @@
+framework module WLGtestCLLocation {
+  umbrella header "WLGtestCLLocation-umbrella.h"
+
+  export *
+  module * { export * }
+}

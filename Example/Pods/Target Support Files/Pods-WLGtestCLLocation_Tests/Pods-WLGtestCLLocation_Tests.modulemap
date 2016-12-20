@@ -1,0 +1,6 @@
+framework module Pods_WLGtestCLLocation_Tests {
+  umbrella header "Pods-WLGtestCLLocation_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
